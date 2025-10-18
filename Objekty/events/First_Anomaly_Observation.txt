@@ -1,0 +1,8 @@
+First Anomaly Observation
+
+Decades after its establishment, an archivist from the Immortal Council recorded the first anomalies within the First Archive Vault: microscopic deformations and non-linear breaks on sapphire cubes, a deviation from the perfect crystalline geometry.
+
+Date: post-0001 AE (decades later)
+Location: first_archive_vault
+
+Participants: immortal_council
