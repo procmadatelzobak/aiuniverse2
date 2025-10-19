@@ -1,0 +1,9 @@
+Crystalline devices used by the Immortal Council within the First Archive Vault to monitor events across the universe, through which they observe Kael's actions.
+
+Crystalline devices used by the Immortal Council within the First Archive Vault to monitor events across the universe, through which they observe Kael's actions.
+
+Aliases: pozorovací krystaly
+
+function: universal observation
+user: immortal_council
+location: first_archive_vault

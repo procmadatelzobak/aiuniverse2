@@ -1,0 +1,9 @@
+An old, smooth, and curved ceramic sink found in an abandoned workshop, serving as the vessel where Kael observes the first manifestation of a multi-colored light spectrum.
+
+An old, smooth, and curved ceramic sink found in an abandoned workshop, serving as the vessel where Kael observes the first manifestation of a multi-colored light spectrum.
+
+Aliases: staré keramické umyvadlo, umyvadlo
+
+material: ceramic
+shape: prohnutý (curved), non-rectangular
+location: abandoned_workshop
