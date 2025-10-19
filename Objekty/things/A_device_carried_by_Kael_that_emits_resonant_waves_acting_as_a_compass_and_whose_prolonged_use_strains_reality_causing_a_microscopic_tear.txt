@@ -1,0 +1,9 @@
+A device carried by Kael that emits resonant waves, acting as a compass, and whose prolonged use strains reality, causing a microscopic tear.
+
+A device carried by Kael that emits resonant waves, acting as a compass, and whose prolonged use strains reality, causing a microscopic tear.
+
+Aliases: Kaelovo rádio, kovová krabice, rádio
+
+function: navigation, reality disruption
+material: metal
+effect: causes tear in reality

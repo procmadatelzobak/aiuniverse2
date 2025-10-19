@@ -1,0 +1,7 @@
+Kael discovers abandoned workshop
+
+Guided by his radio's signal, Kael ventures into the city's forgotten sectors and discovers an old, abandoned workshop, its door falling to dust at his touch.
+
+Location: abandoned_workshop
+
+Participants: kael
