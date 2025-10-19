@@ -1,0 +1,10 @@
+A mysterious, perfectly smooth, dark metal box with rounded edges, found by Kael in the ruins of an old energy substation, which emits a silent but palpable vibration.
+
+A mysterious, perfectly smooth, dark metal box with rounded edges, found by Kael in the ruins of an old energy substation, which emits a silent but palpable vibration.
+
+Aliases: krabice
+
+material: dark metal
+geometry: rounded, no angles
+origin: found in old energy substation ruins
+property: vibrates silently
