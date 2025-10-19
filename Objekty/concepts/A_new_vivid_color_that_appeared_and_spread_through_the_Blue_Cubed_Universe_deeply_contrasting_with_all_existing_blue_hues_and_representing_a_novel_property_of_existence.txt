@@ -1,9 +1,0 @@
-A new, vivid color that appeared and spread through the Blue Cubed Universe, deeply contrasting with all existing blue hues and representing a novel property of existence.
-
-A new, vivid color that appeared and spread through the Blue Cubed Universe, deeply contrasting with all existing blue hues and representing a novel property of existence.
-
-Aliases: rudá esence, rudé odstíny, rudý záblesk, červená barva
-
-color: red
-origin: anomaly
-contrast: blue hues
