@@ -1,0 +1,9 @@
+A forgotten structure located in the decaying sectors of Kael's city, where he discovers the plans for the owl copter and witnesses the first rainbow.
+
+A forgotten structure located in the decaying sectors of Kael's city, where he discovers the plans for the owl copter and witnesses the first rainbow.
+
+Aliases: opuštěná dílna, stará dílna
+
+condition: dilapidated, dust-filled
+location_type: forgotten sector
+discovery_site: owl_copter plans, old_sink

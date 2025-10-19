@@ -1,0 +1,9 @@
+The first observed multi-colored light spectrum (orange, yellow, green) formed when blue light passes through water mixed with red essence, perceived by Kael as complexity and beauty, not chaos.
+
+The first observed multi-colored light spectrum (orange, yellow, green) formed when blue light passes through water mixed with red essence, perceived by Kael as complexity and beauty, not chaos.
+
+Aliases: duhy
+
+components: orange, yellow, green (incomplete)
+origin: blue light refracted through red_color and water
+observer: kael

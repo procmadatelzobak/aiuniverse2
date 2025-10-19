@@ -1,0 +1,9 @@
+The governing council of five immortal archivists responsible for recording and preserving the perfection of existence. They condemn Kael as a heretic for 'destroying' light and breaking reality, issuing a universal arrest warrant.
+
+The governing council of five immortal archivists responsible for recording and preserving the perfection of existence. They condemn Kael as a heretic for 'destroying' light and breaking reality, issuing a universal arrest warrant.
+
+Aliases: Nesmrtelná rada, archiváři
+
+members: five immortal archivists
+role: guardians, stewards, recorders
+stance_on_kael: condemnation, issued arrest warrant
